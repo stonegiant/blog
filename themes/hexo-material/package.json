@@ -1,0 +1,55 @@
+{
+  "name": "hexo-material",
+  "version": "1.0.0",
+  "description": "Material Design Theme for Hexo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viosey/hexo-theme-material.git"
+  },
+  "keywords": [
+    "hexo",
+    "theme",
+    "material"
+  ],
+  "author": {
+    "name": "Viosey"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/viosey/hexo-theme-material/issues"
+  },
+  "homepage": "https://github.com/viosey/hexo-theme-material#readme",
+  "gitHead": "62f6bcb7fb1905beb98950eabfa0ae48b0f38011",
+  "_id": "hexo-material@1.0.0",
+  "_shasum": "4a44011973ad6308993682c6d25ebfa152991401",
+  "_from": "hexo-material@*",
+  "_npmVersion": "3.10.8",
+  "_nodeVersion": "7.0.0",
+  "_npmUser": {
+    "name": "viosey",
+    "email": "imviosey@gmail.com"
+  },
+  "dist": {
+    "shasum": "4a44011973ad6308993682c6d25ebfa152991401",
+    "size": 2684295,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/hexo-material/download/hexo-material-1.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "viosey",
+      "email": "imviosey@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/hexo-material-1.0.0.tgz_1478897329239_0.1500952502246946"
+  },
+  "directories": {},
+  "publish_time": 1478897329488,
+  "_cnpm_publish_time": 1478897329488,
+  "_resolved": "http://registry.npm.taobao.org/hexo-material/download/hexo-material-1.0.0.tgz"
+}
